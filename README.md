@@ -10,3 +10,6 @@
 ## Captura de Tela :computer:
 
 <img src="https://github.com/JohanDev6/ListTasks/blob/main/src/fonts/back.png" />
+
+<img src="https://github.com/JohanDev6/ListTasks/blob/main/src/fonts/addtasks.png" />
+
