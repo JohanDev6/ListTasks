@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./style.css">
+    <title>List Tasks</title>
+</head>
+<body>
+<h1 id='title_name'>Lista de Tarefas</h1>
+<p id='info'>Double Click = <span>Completed</span> | Drag and Drop = <span>Move Tasks</span> </p>
+    <div id="tasks-container">
+        <label>Nome da sua Tarefa:</label>
+        <input type="text" id="title">
+        <label>Data de inicio da sua Tarefa:</label>
+        <input type="date" id="datestart">
+        <label>Data de terminio da sua Tarefa:</label>
+        <input type="date" id="dateend">
+
+        <button id="btn-addtask-confirm"> Adicionar </button>
+
+    </div>
+    <div class="container">
+        <ul id="list" class="tasks">
+        </ul>
+    </div>
+    <button id="btn-addtask"> Adicionar Tarefa </button>
+    
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.13.0/Sortable.min.js"></script>
+<script src="./index.js"></script>
+</html>
