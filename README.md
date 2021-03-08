@@ -5,7 +5,7 @@
 
 ### Sobre o Projeto!
 
-> O Projeto é uma lista de tarefas com algumas funcionalidades como por exemplo; Drag and Drop para definir a ordem da lista, double click para definir tarefa como completa e se a >data de finalização da tafera tiver sido expirada é indicada na lista como atrasada!
+> O Projeto é uma lista de tarefas com algumas funcionalidades como por exemplo; Drag and Drop para definir a ordem da lista, double click para definir tarefa como completa e se a data de finalização da tafera tiver sido expirada é indicada na lista como atrasada!
 
 
 ## Capturas de Tela :computer:
